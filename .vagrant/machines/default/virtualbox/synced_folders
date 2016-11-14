@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/unittest":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/unittest","hostpath":"/Users/walter/workspace/unitTest","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/walter/workspace/unitTest","disabled":false,"__vagrantfile":true}}}
